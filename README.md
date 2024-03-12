@@ -1,2 +1,2 @@
 # calculator
-This is a calsulator built with Javascript, HTML and CSS
+This project contains a simple calculator built with Javascript, HTML and CSS
